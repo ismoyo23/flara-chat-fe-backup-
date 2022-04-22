@@ -46,6 +46,6 @@
 [![Maps.png](https://i.postimg.cc/v82VyPYS/Maps.png)](https://postimg.cc/Hj5x497Q)
 
 ## Author
-- [Alifki](https://github.com/ALIFKI)
+- [Ismoyo](https://github.com/ismoyo23)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/ALIFKI/Flarachat-React-/master/LICENSE) file for details
